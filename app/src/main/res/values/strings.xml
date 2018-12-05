@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Buah-Buahan</string>
+    <string name="opt_menu1">Tentang</string>
+    <string name="opt_menu2">Ubah bahasa</string>
+    <string name="juduldetail">Judul Detail</string>
+    <string name="harga">Harga</string>
+    <string name="detail">Detail</string>
+    <string name="btnbeli">Beli</string>
+    <string name="judulprofil">Tentang Saya</string>
+    <string name="jurusan">Teknik Informatika</string>
+    <string name="namabuah">Avocado</string>
+</resources>

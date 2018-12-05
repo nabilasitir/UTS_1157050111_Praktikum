@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nama_buah" type="id" />
+    <item name="harga" type="id" />
+    <item name="gambar" type="id" />
+    <item name="nama_buah_det" type="id" />
+    <item name="harga_det" type="id" />
+    <item name="txtdetail" type="id" />
+    <item name="gambar_det" type="id" />
+    <item name="prograss" type="id" />
+    <item name="recyclerView" type="id" />
+</resources>
